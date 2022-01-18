@@ -23,6 +23,5 @@
 
         alert(`Your age is ${days} days`)
 
-        // console.log(dob) ;
 
     } ;
